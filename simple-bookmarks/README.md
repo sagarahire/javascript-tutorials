@@ -1,0 +1,1 @@
+Simple vanila javascript app to demonstrate how to access browser local storage. 
